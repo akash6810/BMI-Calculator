@@ -1,0 +1,114 @@
+nav {
+  background-color: #203841;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+nav a:hover {
+  background-color: #413c3c;
+}
+
+nav a[href="https://github.com/akash6810"] {
+  color: #56cb24;
+}
+
+nav a[href="https://www.linkedin.com/in/akash-mondal-3b82a2268/"] {
+  color: #56cb24;
+}
+
+/* Body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/* Container */
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+/* Form */
+form {
+  text-align: center;
+}
+
+/* Input fields */
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 8px;
+  padding-right: 0px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Button */
+button {
+  background-color: #5d78ff;
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #575abb;
+}
+
+/* Results */
+#results {
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* Weight Guide */
+#weight-guide {
+  background-color: #f2f2f2;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+#weight-guide h3 {
+  color: #333;
+  margin-top: 0;
+}
+
+#weight-guide p {
+  color: #666;
+  margin-bottom: 5px;
+}
+
+
+
+
+
+
